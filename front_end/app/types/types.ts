@@ -1,10 +1,20 @@
 export interface Employee {
-    id: number;
-    name: string;
+  age: number,
+  gender: string,
+  address: string,
+  aadhar: string,
+  id: number,
+  name: string,
+  salary: number
   }
   
   export interface Customer {
-    id: number;
-    name: string;
+    number_of_guests: number,
+    phone: number,
+    Bill: number,
+    name: string,
+    id: number,
+    aadhar: number,
+    room_number: number 
   }
   
