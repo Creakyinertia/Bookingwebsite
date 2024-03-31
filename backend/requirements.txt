@@ -1,0 +1,6 @@
+uvicorn[standard]
+fastapi
+SQLalchemy
+psycopg2
+bcrypt
+
